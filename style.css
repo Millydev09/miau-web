@@ -1,0 +1,26 @@
+body {
+    background-color: aqua;
+    color:gray;
+    font-family:cursive;
+    transition-duration: 0.3s, color 0.3s;
+}
+.conteiner {
+    text-align:start;
+    padding: 10px;
+    font size: 16px;
+    cursor: poiter;
+    background-color: light green;
+    color:white;
+    border-radius: 5px;
+    transition: background-color: gray;
+
+}
+button{
+    background-color: rgb(26, 90, 116);
+    color:rgb(177, 240, 252);
+    font-family: cursive;
+    border-radius: 10px;
+    transition: background-color: gray;
+
+}
+
